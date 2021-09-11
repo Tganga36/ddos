@@ -9,6 +9,9 @@ DDos TOP
 @learn inistallation:
 
 1.apt install git
+
 2.git clone https://github.com/mrhack125/ddos
+
 3.cd ddos
+
 4.python3 ddos.py
