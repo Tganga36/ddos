@@ -16,7 +16,7 @@ def ddos():
     print()
     ip = socket.gethostbyname(site)
     UDP_PORT = 80
-    MESSAGE = 'BLACKGUARD'
+    MESSAGE = 'HACKEDBY'
     print(Fore.RED+"[!]"+Fore.WHITE+" UDP target IP:", ip)
     print(Fore.RED +"[!]"+Fore.WHITE+" UDP target port:", UDP_PORT)
     time.sleep(3)
@@ -108,9 +108,9 @@ def banner():
     print(Fore.LIGHTGREEN_EX + '[!]' + Fore.LIGHTYELLOW_EX + ' Wellcome hacker :)')
     print()
     if data0 == 'Linux':
-        os.system('echo "created By : @mrhack125" | lolcat')
+        os.system('echo "created By : @Tganga36" | lolcat')
     else:
-        print("created By : @mrhack125")
+        print("created By : @Tganga36")
     
     print()
     time.sleep(0.7)
